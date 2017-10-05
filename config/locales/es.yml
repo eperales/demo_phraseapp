@@ -1,2 +1,5 @@
 ---
-es: {}
+es:
+  contents:
+    movie: Película
+    movies: Películas
