@@ -21,3 +21,6 @@ en:
       profile: Profile
       sign_in: Sign in
       sign_up: Sign up
+  contents:
+    movie: Movie
+    movies: Movies
