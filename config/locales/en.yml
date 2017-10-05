@@ -2,6 +2,7 @@
 en:
   contents:
     movie: Movie
+      title: Title
     movies: Movies
   general:
     back: Back
