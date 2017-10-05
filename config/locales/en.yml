@@ -1,8 +1,12 @@
 ---
 en:
   contents:
-    movie: Movie
+    movie:
+      title: Title
     movies: Movies
+    tv_show:
+      title: Title
+    tv_shows: TV shows
   general:
     back: Back
     cancel: Cancel

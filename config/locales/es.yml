@@ -1,5 +1,9 @@
 ---
 es:
   contents:
-    movie: Película
+    movie:
+      title: Título
     movies: Películas
+    tv_show:
+      title: Título
+    tv_shows: Series
