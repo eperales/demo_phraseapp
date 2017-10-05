@@ -4,9 +4,9 @@ en:
     movie:
       title: Title
     movies: Movies
-    tv_shows: TV shows
     tv_show:
       title: Title
+    tv_shows: TV shows
   general:
     back: Back
     cancel: Cancel
