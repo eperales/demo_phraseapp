@@ -1,0 +1,23 @@
+---
+en:
+  general:
+    back: Back
+    cancel: Cancel
+    confirm: Confirm
+    destroy: Destroy
+    edit: Edit
+    new: New
+  hello: Hello
+  layouts:
+    application:
+      about: About
+      account: Account
+      app_store: App store
+      imprint: Print
+      logout: Logout
+      my_mails: My mails
+      press: Press
+      preview: preview
+      profile: Profile
+      sign_in: Sign in
+      sign_up: Sign up
