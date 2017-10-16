@@ -7,3 +7,6 @@ es:
     tv_show:
       title: Título
     tv_shows: Series
+  general:
+    back: Volver
+    cancel: Cancelar
